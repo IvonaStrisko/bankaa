@@ -11,6 +11,7 @@ public class Racun {
 	private String vlasnik;
 	private double stanje;
 	private double raspolozivoStanje;
+	private String riletovAtribut;
 	
 	private List <Nalog> nalogZaUplatu = new ArrayList<>();
 	private List <Nalog> nalogZaIsplatu = new ArrayList<>();
